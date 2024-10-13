@@ -1,0 +1,2 @@
+# schol-managment-system
+project
