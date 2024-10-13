@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../exam question"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web"
+	}
+}
